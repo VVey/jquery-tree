@@ -1,0 +1,26 @@
+{
+  "name": "jquery-tree",
+  "title": "jQuery Tree",
+  "description": "The best jQuery plugin ever.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/VicWei/jquery-tree",
+  "author": {
+    "name": "VicWei",
+    "email": "VicWei1030@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/VicWei/jquery-tree.git"
+  },
+  "bugs": "https://github.com/VicWei/jquery-tree/issues",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/VicWei/jquery-tree/blob/master/LICENSE-MIT"
+    }
+  ],
+  "dependencies": {
+    "jquery": "*"
+  },
+  "keywords": []
+}
